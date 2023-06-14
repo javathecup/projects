@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "name": "John's workspace",
+      "owner": "1",
+      "projects": ["1", "2"]
+    },
+    {
+      "id": "2",
+      "name": "Jane's workspace",
+      "owner": "2",
+      "projects": ["3"]
+    }
+  ]
+  

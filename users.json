@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "username": "john",
+    "address": "123 Main St, Springfield, USA",
+    "location": {
+      "latitude": 37.7749,
+      "longitude": 122.4194
+    },
+    "folders": ["1"],
+    "projects": ["1", "2"]
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "username": "jane",
+    "address": "456 Market St, Springfield, USA",
+    "location": {
+      "latitude": 37.8044,
+      "longitude": 122.2712
+    },
+    "folders": ["2"],
+    "projects": ["3"]
+  }
+]
