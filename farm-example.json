@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Bessie",
+      "type": "Cow",
+      "characteristics": {
+        "color": "Brown",
+        "weight": 1000,
+        "hasHorns": true,
+        "spots": [
+          {
+            "location": "Head",
+            "size": "Small"
+          },
+          {
+            "location": "Back",
+            "size": "Large"
+          }
+        ]
+      },
+      "produce": [
+        {
+          "type": "Milk",
+          "quantityPerDay": 22.5,
+          "details": {
+            "fatContent": 3.5,
+            "expirationDays": 3
+          }
+        }
+      ],
+      "bornOn": "2018-04-15T00:00:00Z",
+      "friends": [
+        {
+          "id": "2",
+          "name": "Clucky",
+          "friendSince": "2018-06-10T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Clucky",
+      "type": "Chicken",
+      "characteristics": {
+        "color": "White",
+        "weight": 1.5,
+        "hasHorns": false,
+        "feathers": [
+          {
+            "location": "Wing",
+            "color": "Red"
+          },
+          {
+            "location": "Tail",
+            "color": "Green"
+          }
+        ]
+      },
+      "produce": [
+        {
+          "type": "Eggs",
+          "quantityPerDay": 1,
+          "details": {
+            "eggSize": "Large",
+            "expirationDays": 21
+          }
+        }
+      ],
+      "bornOn": "2022-01-10T00:00:00Z",
+      "friends": [
+        {
+          "id": "1",
+          "name": "Bessie",
+          "friendSince": "2022-03-05T00:00:00Z"
+        }
+      ]
+    }
+  ]
+  
