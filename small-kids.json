@@ -1,0 +1,105 @@
+{
+    "IntellectualSkills": {
+      "Cognition": {
+        "NumericalSkills": {
+          "Classifying": {
+            "score": 4.10,
+            "description": "Ability to sort items based on features"
+          },
+          "ComparingQuantities": {
+            "score": 4.14,
+            "description": "Comparing sizes or amounts"
+          },
+          "Counting": {
+            "score": 4.12,
+            "description": "Ability to count objects"
+          },
+          "DeterminingQuantity": {
+            "score": 4.13,
+            "description": "Identifying how many items are in a set"
+          }
+        },
+        "ProblemSolving": {
+          "CollectingAndOrganizing": {
+            "score": 4.6,
+            "description": "Gathering data and arranging it"
+          },
+          "CommunicatingFindings": {
+            "score": 4.8,
+            "description": "Conveying observations or results"
+          },
+          "ProblemSolving": {
+            "score": 4.2,
+            "description": "Finding solutions to challenges"
+          },
+          "Questioning": {
+            "score": 4.4,
+            "description": "Ability to ask relevant questions"
+          },
+          "ReasoningLogically": {
+            "score": 4.9,
+            "description": "Applying logic to solve problems"
+          }
+        },
+        "SelfRegulation": {
+          "SelfRegulation": {
+            "score": 4.1,
+            "description": "Controlling one’s emotions and behavior"
+          },
+          "ReflectingAndConclusions": {
+            "score": 4.7,
+            "description": "Thinking about and summarizing what was learned"
+          }
+        },
+        "SpatialAwareness": {
+          "DescribingOrdinalNumberAndPosition": {
+            "score": 4.16,
+            "description": "Understanding order and placement"
+          },
+          "UnderstandingShapes": {
+            "score": 4.17,
+            "description": "Recognizing different shapes"
+          },
+          "UsingSpatialRelations": {
+            "score": 4.22,
+            "description": "Understanding space and directions"
+          }
+        },
+        "OtherCognitiveSkills": {
+          "CompletingSimpleNumberOperations": {
+            "score": 4.20,
+            "description": "Basic addition and subtraction"
+          },
+          "IdentifyPatterns": {
+            "score": 4.18,
+            "description": "Recognizing sequences or arrangements"
+          },
+          "MeasuringAttributes": {
+            "score": 4.19,
+            "description": "Understanding measurements like length, weight"
+          },
+          "Observing": {
+            "score": 4.5,
+            "description": "Noticing details in the environment"
+          },
+          "Representation": {
+            "score": 4.3,
+            "description": "Ability to represent ideas visually or verbally"
+          },
+          "RepresentingNumbers": {
+            "score": 4.15,
+            "description": "Understanding numerical representation"
+          },
+          "Seriating": {
+            "score": 4.11,
+            "description": "Putting things in a specific order"
+          },
+          "UsingNumberSymbolsAndOperations": {
+            "score": 4.21,
+            "description": "Using symbols like +, -, ="
+          }
+        }
+      }
+    }
+  }
+  
